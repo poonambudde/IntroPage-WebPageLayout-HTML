@@ -1,0 +1,24 @@
+.header
+{
+    justify-content: center;
+    display: flex;
+    padding: 4%;
+    font-family: fantasy;
+    color: #08539f;
+    font-size: x-large;
+}
+
+.img-container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.text
+{
+    height: 100%;
+    padding: 2%;
+    font-size: larger;
+    font-family: system-ui;
+    font-weight: 500;
+}
